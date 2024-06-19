@@ -35,7 +35,7 @@ Welcome to the documentation of my first week as an intern! This week, I started
 
 ## Day 3: Working with Pull Requests
 
-![Day 3](https://media.giphy.com/media/l1J3preURPiwjRPvK/giphy.gif)
+![Day 3]
 
 - **Pull Requests**: Created my first pull request (PR) and understood the review process.
 - **Reviewing Code**: Learned how to review code changes in a PR.
