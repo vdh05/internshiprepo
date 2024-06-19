@@ -82,5 +82,3 @@ Stay tuned for more updates as I continue my journey!
 ![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+1)
 
 ---
-
-Feel free to customize this template further based on your specific experiences and the actual images/screenshots from your first week. You can replace placeholder image links with actual images hosted on GitHub or any image hosting service.
