@@ -23,8 +23,6 @@ Welcome to the documentation of my first week as an intern! This week, I started
 
 ## Day 2: Exploring Repository Management
 
-![Day 2](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 - **Branch Management**: Learned to create, switch, and delete branches.
 - **Merge Conflicts**: Introduced to merge conflicts and how to resolve them using GitHub Desktop.
 - **History and Changes**: Explored viewing commit history and changes.
@@ -51,8 +49,6 @@ Welcome to the documentation of my first week as an intern! This week, I started
 
 ## Day 4: Advanced Features of GitHub Desktop
 
-![Day 4](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
 - **Stashing Changes**: Learned to stash and apply changes.
 - **Reverting Commits**: Explored how to revert commits and reset branches.
 - **Git Ignore**: Created a `.gitignore` file to exclude unnecessary files.
@@ -64,8 +60,6 @@ Welcome to the documentation of my first week as an intern! This week, I started
 ---
 
 ## Day 5: Finalizing the Basics and Setting Up Essential Tools
-
-![Day 5](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 - **Linear Account**: Signed up for Linear using [this link](https://linear.app/).
 - **Slack Channel**: Joined our team channel on Slack through [this invite link](https://join.slack.com/t/voldebug/shared_invite/zt-2iumetexw-POTY~yvapKdW6cvDGFCrTw).
@@ -92,5 +86,3 @@ Stay tuned for more updates as I continue my journey!
 ![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+1)
 
 ---
-
-
