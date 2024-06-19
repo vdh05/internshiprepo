@@ -8,7 +8,7 @@ Welcome to the documentation of my first week as an intern! This week, I started
 
 ## Day 1: Setting Up GitHub and GitHub Desktop
 
-![Day 1](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+![Day 1]([https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&psig=AOvVaw1NbCFCZnKR47XVc6VXW72l&ust=1718898950766000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjw1N2D6IYDFQAAAAAdAAAAABAJ))
 
 - **Created GitHub Account**: [Sign up here](https://github.com/).
 - **Installed GitHub Desktop**: Set up GitHub Desktop on my workstation.
