@@ -1,15 +1,12 @@
 Vidhi
-
-13-05-2024:
+15-05-2024:
 Introduced to the concept of Git version control and its importance in software development.
 Explored online tutorials and documentation to understand Git fundamentals.
-
-14-05-2024:
 
 Set up Git on my local machine and practiced creating a new Git repository.
 Learned basic Git commands like init, add, and commit to track code changes.
 
-15-05-2024:
+
 Delved deeper into understanding Git branches and branching strategies.
 Practiced creating and switching between branches to isolate development work.
 
