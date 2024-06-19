@@ -8,7 +8,7 @@ Welcome to the documentation of my first week as an intern! This week, I started
 
 ## Day 1: Setting Up GitHub and GitHub Desktop
 
-![Day 1]([https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&psig=AOvVaw1NbCFCZnKR47XVc6VXW72l&ust=1718898950766000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjw1N2D6IYDFQAAAAAdAAAAABAJ))
+![Day 1](./mnt/data/coding_gif.gif)
 
 - **Created GitHub Account**: [Sign up here](https://github.com/).
 - **Installed GitHub Desktop**: Set up GitHub Desktop on my workstation.
@@ -35,7 +35,7 @@ Welcome to the documentation of my first week as an intern! This week, I started
 
 ## Day 3: Working with Pull Requests
 
-![Day 3]
+![Day 3](./mnt/data/coding_gif.gif)
 
 - **Pull Requests**: Created my first pull request (PR) and understood the review process.
 - **Reviewing Code**: Learned how to review code changes in a PR.
@@ -86,3 +86,5 @@ Stay tuned for more updates as I continue my journey!
 ![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+1)
 
 ---
+
+Feel free to customize this template further based on your specific experiences and the actual images/screenshots from your first week. You can replace placeholder image links with actual images hosted on GitHub or any image hosting service.
