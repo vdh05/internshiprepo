@@ -2,22 +2,18 @@
 
 ![Internship Banner](https://via.placeholder.com/1000x300.png?text=My+Internship+Journey)
 
+
 Welcome to the documentation of my first week as an intern! This week, I started with setting up essential tools and dived deep into understanding and using **GitHub Desktop**. Here's a day-by-day breakdown of my experiences and learnings.
 
 ---
 
 ## Day 1: Setting Up GitHub and GitHub Desktop
 
-![Day 1](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
+![Day 1](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 - **Created GitHub Account**: [Sign up here](https://github.com/).
 - **Installed GitHub Desktop**: Set up GitHub Desktop on my workstation.
 - **Connected GitHub Account**: Linked my GitHub account to the desktop application.
 - **Cloned Repository**: Cloned my first repository to the local machine.
-
-### Highlights:
-- **User Interface**: Got familiar with the clean and intuitive UI of GitHub Desktop.
-- **First Commit**: Made my first commit and pushed it to the remote repository.
 
 ---
 
