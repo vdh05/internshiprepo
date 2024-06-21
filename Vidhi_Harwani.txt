@@ -57,7 +57,7 @@ blog shortdescription and longdescription both different schemas are created and
 blog standard apis are tested and are pushed to original repo
 
 17-06-2024 to 21-06-2024:
-the apis are integrated in original frontend but error occur in one api.
+the apis are integrated in original frontend but error occur in one api
 
 
 
