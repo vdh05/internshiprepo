@@ -82,3 +82,89 @@ Stay tuned for more updates as I continue my journey!
 ![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+1)
 
 ---
+# 🛠️ My Internship Journey: Week 2
+
+![Internship Banner](https://via.placeholder.com/1000x300.png?text=My+Internship+Journey)
+
+Welcome to the documentation of my second week as an intern! This week, I focused on learning about CRUD operations and implementing a CRUD application. Here's a day-by-day breakdown of my experiences and learnings.
+
+---
+
+## Day 1: Learning CRUD Operations
+
+![Day 1](https://media.giphy.com/media/26FPxK5wKW3aiVNow/giphy.gif)
+- **Watched YouTube Tutorial**: Gained a solid understanding of CRUD operations (Create, Read, Update, Delete).
+- **Resource**: [YouTube CRUD Tutorial](#)
+
+---
+
+## Day 2: Setting Up the Project
+
+- **Development Environment**: Set up the development environment and initialized the CRUD application project.
+- **Dependencies**: Installed necessary dependencies.
+- **Project Structure**: Created the initial project structure.
+
+### Highlights:
+- **Environment Setup**: Successfully set up the workspace.
+- **Project Initialization**: Initialized the project with all necessary configurations.
+
+---
+
+## Day 3: Implementing Create and Read Operations
+
+![Day 3](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
+
+- **Create Functionality**: Developed the functionality to add new data entries.
+- **Read Functionality**: Implemented the functionality to view existing data entries.
+- **Database Setup**: Created the data model and set up the database.
+- **API Endpoints**: Developed API endpoints for Create and Read operations.
+
+### Highlights:
+- **Data Model**: Successfully created the data model.
+- **Database Integration**: Integrated the database with the application.
+
+---
+
+## Day 4: Implementing Update and Delete Operations
+
+- **Update Functionality**: Developed the functionality to modify existing data entries.
+- **Delete Functionality**: Implemented the functionality to remove data entries.
+- **Testing**: Tested the Update and Delete operations to ensure they work correctly.
+
+### Highlights:
+- **API Development**: Successfully developed and tested Update and Delete endpoints.
+- **Bug Fixes**: Identified and fixed initial bugs in the implementation.
+
+---
+
+## Day 5: Testing and Finalizing the CRUD Application
+
+- **Testing**: Wrote test cases for each CRUD operation.
+- **Unit and Integration Testing**: Performed unit testing and integration testing.
+- **Documentation**: Documented the application and its API endpoints.
+
+### Highlights:
+- **Comprehensive Testing**: Ensured the application works as expected through rigorous testing.
+- **Documentation**: Created detailed documentation for future reference.
+
+---
+
+## Postman Testing
+
+Below is an example of testing the CRUD API using Postman:
+
+![Postman Testing](https://media.giphy.com/media/26FPxK5wKW3aiVNow/giphy.gif)
+
+---
+
+## Reflections
+
+This week was incredibly productive, and I learned a lot about implementing and testing CRUD operations. The hands-on experience with API development and testing has been invaluable, setting a solid foundation for future backend development tasks.
+
+Stay tuned for more updates as I continue my journey!
+
+---
+
+![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+2)
+
+---
