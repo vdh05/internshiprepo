@@ -11,7 +11,7 @@ Learned basic Git commands like init, add, and commit to track code changes.
 
 15-05-2024:
 Delved deeper into understanding Git branches and branching strategies.
-Practiced creating and switching between branches to isolate development work.
+Practiced creating and switching between branches to isolate development work
 
 16-05-2024:
 Focused on mastering Git collaboration features like pull requests and merges.
@@ -21,4 +21,5 @@ Understood the workflow for proposing changes and integrating them into the main
 Explored the GitHub platform for code sharing and project management.
 Learned how to create repositories on GitHub, collaborate with others, and manage access control.
 Put my learnings into practice by contributing to a sample project on GitHub.
-Created a branch, made code modifications, and submitted a pull request for review.s
+Created a branch, made code modifications, and submitted a pull request for reviews
+
