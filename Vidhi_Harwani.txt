@@ -20,3 +20,46 @@ Learned how to create repositories on GitHub, collaborate with others, and manag
 Put my learnings into practice by contributing to a sample project on GitHub.
 Created a branch, made code modifications, and submitted a pull request for reviews
 
+
+20-05-2024:
+CRUD app api 2hrs tutorial watched
+ Crud app api schema created
+
+21-05-2024:
+Crud app api read write api is created
+
+22-05-2024:
+crud app api update and delete is created
+
+23-05-2024 to 24-05-2024:
+all apis tested in postman and pushed on the repo
+
+
+27-05-2024:
+voldebug app zip file downloaded the app is totally observed where apis can be used is noted 
+
+28-05-2024:
+blog standards api create,read,update blogimage api is made 
+
+29-05-2024:
+blog standard api delete api for image is created and schema for blogtitle created
+
+30-05-2024:
+blog standard api for the blogtitle create,read,update and delete is created
+
+31-05-2024:
+blog standard api relation between the blogtitle and image is created
+
+3-06-2024 to 7-06-2024:
+blog shortdescription and longdescription both different schemas are created and relation is made between them
+
+10-06-2024 to 14-06-2024:
+blog standard apis are tested and are pushed to original repo
+
+17-06-2024 to 21-06-2024:
+the apis are integrated in original frontend but error occur in one api
+
+
+
+
+
