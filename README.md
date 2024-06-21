@@ -91,7 +91,7 @@ Welcome to the documentation of my second week as an intern! This week, I focuse
 
 ## Day 1: Learning CRUD Operations
 
-![Day 1](https://media.giphy.com/media/26FPxK5wKW3aiVNow/giphy.gif)
+![Day 1]
 - **Watched YouTube Tutorial**: Gained a solid understanding of CRUD operations (Create, Read, Update, Delete).
 - **Resource**: [YouTube CRUD Tutorial](#)
 
@@ -111,7 +111,7 @@ Welcome to the documentation of my second week as an intern! This week, I focuse
 
 ## Day 3: Implementing Create and Read Operations
 
-![Day 3](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
+![Day 3]
 
 - **Create Functionality**: Developed the functionality to add new data entries.
 - **Read Functionality**: Implemented the functionality to view existing data entries.
