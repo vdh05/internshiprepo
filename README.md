@@ -93,7 +93,7 @@ Welcome to the documentation of my second week as an intern! This week, I focuse
 
 ![Day 1]
 - **Watched YouTube Tutorial**: Gained a solid understanding of CRUD operations (Create, Read, Update, Delete).
-- **Resource**: [YouTube CRUD Tutorial](#)
+- **Resource**: [YouTube CRUD Tutorial](https://www.youtube.com/watch?v=_7UQPve99r4)
 
 ---
 
