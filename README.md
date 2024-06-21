@@ -81,7 +81,6 @@ Stay tuned for more updates as I continue my journey!
 
 ![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+1)
 
----
 # 🛠️ My Internship Journey: Week 2
 
 ![Internship Banner](https://via.placeholder.com/1000x300.png?text=My+Internship+Journey)
@@ -153,7 +152,7 @@ Welcome to the documentation of my second week as an intern! This week, I focuse
 
 Below is an example of testing the CRUD API using Postman:
 
-![Postman Testing](https://media.giphy.com/media/26FPxK5wKW3aiVNow/giphy.gif)
+![Postman Symbol](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
 
 ---
 
