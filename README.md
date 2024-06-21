@@ -152,7 +152,7 @@ Welcome to the documentation of my second week as an intern! This week, I focuse
 
 Below is an example of testing the CRUD API using Postman:
 
-![Postman Symbol](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
+![Postman Symbol](./mnt/data/image.png)
 
 ---
 
