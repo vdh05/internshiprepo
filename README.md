@@ -167,3 +167,80 @@ Stay tuned for more updates as I continue my journey!
 ![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+2)
 
 ---
+
+# 🛠️ My Internship Journey: Week 3
+
+![Internship Banner](https://via.placeholder.com/1000x300.png?text=My+Internship+Journey)
+
+Welcome to the documentation of my third week as an intern! This week, I focused on understanding the VolDebug app and developing various APIs. Here's a day-by-day breakdown of my experiences and learnings.
+
+---
+
+## Day 1: Observing the VolDebug App
+
+- **Downloaded VolDebug App**: Downloaded the zip file of the VolDebug app.
+- **App Observation**: Thoroughly observed the app to understand where APIs can be utilized.
+
+---
+
+## Day 2: Creating Blog Standards API
+
+- **Blog Standards API**: Developed Create, Read, and Update APIs for blog standards.
+- **Blog Image API**: Created APIs for managing blog images.
+
+### Highlights:
+- **CRUD Operations**: Successfully implemented CRUD operations for blog standards.
+- **Image Management**: Developed APIs to handle blog images effectively.
+
+---
+
+## Day 3: Deleting Blog Standards and Image API
+
+- **Delete API for Blog Standards**: Created Delete API for blog standards.
+- **Delete API for Blog Image**: Developed Delete API for blog images.
+- **Schema Creation**: Designed the schema for blog titles.
+
+### Highlights:
+- **Deletion Handling**: Implemented deletion functionalities for blog standards and images.
+- **Schema Design**: Created an efficient schema for managing blog titles.
+
+---
+
+## Day 4: Full CRUD for Blog Titles
+
+- **Blog Title API**: Developed Create, Read, Update, and Delete APIs for blog titles.
+
+### Highlights:
+- **Complete CRUD**: Implemented full CRUD functionalities for managing blog titles.
+
+---
+
+## Day 5: Establishing Relationships
+
+- **API Relationships**: Created the relationship between blog titles and images in the API.
+
+### Highlights:
+- **Data Relations**: Successfully established and managed relationships between different data entities.
+
+---
+
+## API Development
+
+Below is an example image related to the API development process:
+
+![API Development](./mnt/data/api.png)
+
+---
+
+## Reflections
+
+This week was highly productive, and I enhanced my skills in API development and data management. The experience of working with the VolDebug app and creating various APIs has been invaluable, providing a deeper understanding of backend development.
+
+Stay tuned for more updates as I continue my journey!
+
+---
+
+![Footer](https://via.placeholder.com/1000x100.png?text=End+of+Week+3)
+
+---
+
