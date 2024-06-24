@@ -255,8 +255,10 @@ Welcome to the documentation of my fourth week as an intern! This week, I focuse
 
 - **Downloaded VolDebug App**: Downloaded the zip file of the VolDebug app.
 - **App Observation**: Thoroughly observed the app to understand where APIs can be utilized for managing blog information.
+![Postman Symbol](./mnt/data/webdev.png)
 
 ---
+
 
 ## Day 2: Developing Blog Information APIs
 
