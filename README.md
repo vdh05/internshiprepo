@@ -296,8 +296,8 @@ Welcome to the documentation of my fourth week as an intern! This week, I focuse
 ## Day 5: Testing and Documentation
 
 - **Unit Testing**: Conducted rigorous testing of APIs to ensure functionality and reliability.
-- **Documentation**: Documented API endpoints, usage instructions, and data models for future reference.
-- **Final Review**: Reviewed code and documentation with team members for feedback and improvement.
+
+- **Final Review**: Reviewed code with team members for feedback and improvement.
 
 ### Highlights:
 - Thoroughly tested APIs to validate CRUD operations and data relationships.
